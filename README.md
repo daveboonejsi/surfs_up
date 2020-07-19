@@ -14,10 +14,14 @@ Then I used the create_engine element of SQL Alchemy to establish a connection t
 
 Then using a query I used numpy to determine the mean temperature for the data limiting first to June, and then December.
 
+
+
 Average temperature for the month of June:
+
 ![](June_tempuratures_Oahu.jpg)
 
 Average temperature for the month of December:
+
 ![](December_tempuratures_Oahu.jpg)
 
 ## Interpretation:
